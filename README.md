@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Full-stack developer from Egypt</h3>
 <!--
 **Khaled-Alaa-1/Khaled-Alaa-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
