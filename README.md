@@ -3,6 +3,7 @@
 ## About Me
 
 [A passionate Full-stack developer from Egypt]
+
 <div align="center" width="50">
 
 <img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
@@ -13,23 +14,6 @@
 - 🌱 [Areas of expertise]
 - 💬 [Hobbies or interests related to programming/tech]
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Projects
-
-### [Project Name]
-
-[Description of the project]
-
-- [Role in the project]
-- [Link to the repository or live demo]
-
-### [Project Name]
-
-[Description of the project]
-
-- [Role in the project]
-- [Link to the repository or live demo]
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
