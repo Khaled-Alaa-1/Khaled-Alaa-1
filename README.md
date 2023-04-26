@@ -3,8 +3,11 @@
 ## About Me
 
 [A passionate Full-stack developer from Egypt]
+<div align="center" width="50">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fart-openframeworks-programming&psig=AOvVaw2Fr_4gH8mZ_0VtGY67SIRb&ust=1682556439784000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDJ7qmpxv4CFQAAAAAdAAAAABAg"alt="Welcome!" width="300"/>
+<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+
+</div>
 
 - 🏢 [Current job/occupation]
 - 🌱 [Areas of expertise]
