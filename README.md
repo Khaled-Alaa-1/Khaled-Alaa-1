@@ -4,13 +4,13 @@
 
 [A passionate Full-stack developer from Egypt]
 
----
+<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 - 🏢 [Current job/occupation]
 - 🌱 [Areas of expertise]
 - 💬 [Hobbies or interests related to programming/tech]
 
----
+<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 ## Projects
 
@@ -28,7 +28,7 @@
 - [Role in the project]
 - [Link to the repository or live demo]
 
----
+<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 ## Skills
 
@@ -50,7 +50,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
----
+<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 ## Activity Overview
 
