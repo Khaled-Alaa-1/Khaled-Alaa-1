@@ -10,7 +10,7 @@
 - 🌱 [Areas of expertise]
 - 💬 [Hobbies or interests related to programming/tech]
 
-<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Projects
 
@@ -28,7 +28,7 @@
 - [Role in the project]
 - [Link to the repository or live demo]
 
-<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Skills
 
@@ -50,13 +50,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Activity Overview
 
 [Include a summary of your recent activity on GitHub, such as your most recent contributions, projects you're currently working on, or pull requests you've opened or reviewed. You can also include links to your GitHub profile, repositories, or activity feed.]
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact
 
