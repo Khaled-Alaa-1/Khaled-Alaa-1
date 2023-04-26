@@ -4,7 +4,7 @@
 
 [A passionate Full-stack developer from Egypt]
 
-<img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47crrjom3bwr6hqsc4qmyxs7nbhxdc8sr2zx29z37d&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 - 🏢 [Current job/occupation]
 - 🌱 [Areas of expertise]
