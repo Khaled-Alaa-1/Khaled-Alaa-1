@@ -47,8 +47,5 @@
 
 ## Contact
 
-- 📫 [Ways to reach you, such as email or social media]
-- 🔗 [Links to your personal website or blog]
-- 💼 [Any other relevant information, such as availability for freelance work or contributions to open source projects]
+- 📫 [[Ways to reach you, such as email or social media](https://www.linkedin.com/in/khaled-alaa-594bb9256/)]
 
-<img align="left" alt="Khaled-Alaa-1 github stats" src="https://github-readme-stats-l47sf5goo-Khaled-Alaa-1.vercel.app/api?username=Khaled-Alaa-1&show_icons=true&hide_border=true" />
