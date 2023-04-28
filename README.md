@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<iframe src='https://gfycat.com/ifr/ExaltedAccomplishedHornedtoad' frameborder='0' scrolling='no' allowfullscreen width='640' height='411'></iframe>
+<img src='https://gfycat.com/ifr/ExaltedAccomplishedHornedtoad' frameborder='0' scrolling='no' allowfullscreen width='640' height='411'></img>
 
 </div>
 
