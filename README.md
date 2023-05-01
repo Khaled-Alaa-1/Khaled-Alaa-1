@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src='https://gfycat.com/ifr/ExaltedAccomplishedHornedtoad' frameborder='0' scrolling='no' allowfullscreen width='640' height='411'></img>
+<img src='https://thumbs.gfycat.com/ExaltedAccomplishedHornedtoad-mobile.mp4' frameborder='0' scrolling='no' allowfullscreen width='640' height='411'></img>
 
 </div>
 
